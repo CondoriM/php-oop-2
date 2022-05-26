@@ -12,7 +12,6 @@ include __DIR__ . '/layout/head.php';
         <?php include_once __DIR__.'/partials/products.php' ?>
 
     </div>
-
 </main>
 
 <?php
